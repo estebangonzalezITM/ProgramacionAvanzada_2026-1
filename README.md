@@ -1,10 +1,11 @@
 # ProgramacionAvanzada-ITM
 Materiales para el curso de Programación Avanzada del Instituto Tecnológico Metropolitano (ITM).
-https://github.com/estebangonzalezITM/ProgramacionAvanzada_2026-1/blob/main/README.md
+
+
 # Calendario
 | Semana |                             Tema                              |                  Material practico |
 | :-----------: | :--------------------------------------------------------------: |:----------------------------------------------------------------------------------------------------------------------------: | 
-|      01       |  Introducción, Definición de Variables           |    [Introduccion](https://github.com/estebangonzalezITM/ProgramacionAvanzada_2026-1/blob/main/Notebooks/01_IntroduccionPython.ipynb)  | 
+|      01       |  Introducción, Definición de Variables           |    [Introduccion](https://github.com/estebangonzalezITM/ProgramacionAvanzada_2026-1/blob/main/Notebooks/01_IntroduccionPython.ipynb)  <a target="_blank" href="https://colab.research.google.com/github/estebangonzalezITM/ProgramacionAvanzada_2026-1/blob/main/Notebooks/01_IntroduccionPython.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  | 
 |      02       |  Ciclo While, Ciclo For,   | [While y For](https://github.com/cgl-itm/ProgramacionAvanzada-ITM/blob/main/notebooks/03_While_For.ipynb) <a target="_blank" href="https://colab.research.google.com/gist/cgl-itm/ProgramacionAvanzada-ITM/blob/main/notebooks/03_While_For.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  |
 |      03       |   Listas y Tuplas |  [Listas](https://github.com/cgl-itm/ProgramacionAvanzada-ITM/blob/main/notebooks/04_Listas.ipynb) <a target="_blank" href="https://colab.research.google.com/github/cgl-itm/ProgramacionAvanzada-ITM/blob/main/notebooks/04_Listas.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  | 
 |      04       |  Clase taller y Examen   |      | 
