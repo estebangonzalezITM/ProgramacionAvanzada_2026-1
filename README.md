@@ -7,18 +7,7 @@ Materiales para el curso de Programación Avanzada del Instituto Tecnológico Me
 | :-----------: | :--------------------------------------------------------------: |:----------------------------------------------------------------------------------------------------------------------------: | 
 |      01       |  Introducción, Definición de Variables           |    [Clase 01](https://github.com/estebangonzalezITM/ProgramacionAvanzada_2026-1/blob/main/Notebooks/01_IntroduccionPython.ipynb)  <a target="_blank" href="https://colab.research.google.com/github/estebangonzalezITM/ProgramacionAvanzada_2026-1/blob/main/Notebooks/01_IntroduccionPython.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  | 
 |      02       |  Estructuras condicionales y ciclos   |  [Clase 02](https://github.com/estebangonzalezITM/ProgramacionAvanzada_2026-1/blob/main/Notebooks/02_Condicionales_Match.ipynb)  <a target="_blank" href="https://colab.research.google.com/github/estebangonzalezITM/ProgramacionAvanzada_2026-1/blob/main/Notebooks/02_Condicionales_Match.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  | 
-# |      03       |   Listas y Tuplas | | #  [Listas](https://github.com/cgl-itm/ProgramacionAvanzada-ITM/blob/main/notebooks/04_Listas.ipynb) <a target="_blank" href="https://colab.research.google.com/github/cgl-itm/ProgramacionAvanzada-ITM/blob/main/notebooks/04_Listas.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  | 
-# |      04       |  Clase taller y Examen   |      | 
-# |      05         |   Diccionarios y Funciones  | | # [Diccionarios y Funciones](https://github.com/cgl-itm/ProgramacionAvanzada-ITM/blob/main/notebooks/05_Diccionarios_funciones.ipynb) <a target="_blank" href="https://colab.research.google.com/github/cgl-itm/ProgramacionAvanzada-ITM/blob/main/notebooks/05_Diccionarios_funciones.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>      |
-# |      06       |  Programación Orientada a Objetos   | | # [Programación Orientada a Objetos](https://github.com/cgl-itm/ProgramacionAvanzada-ITM/blob/main/notebooks/06_OOP_ProgOrientadaObj.ipynb) <a target="_blank" href="https://colab.research.google.com/github/cgl-itm/ProgramacionAvanzada-ITM/blob/main/notebooks/06_OOP_ProgOrientadaObj.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  | 
-# |      07         |   Programacion Orientada a Objetos 2 y Decoradores  |      |
-# |      08         |   Examen OOP |      |
-# |      09         |   Numpy Matrices y Vectores  |      |
-# |      10         |  Matplotlib   |      |
-# |      11         |  Pandas   |      |
-# |      12         |   Pandas 2  |      |
-# |      13         |   Series de Tiempo con Pandas. Dashboard Writer  | | #  [Writer App](https://dev.writer.com/framework/introduction)   |
-# |      14         |   Ejercicios Writer  |      |
+
 
 ## Cursos con certificacion gratuita
 * [Fundamentos de Python](https://www.netacad.com/es/courses/python-essentials-1?courseLang=es-XL)
